@@ -1,0 +1,17 @@
+application.type=widget
+application.code=widget_solicitacao_compras
+application.title=widget_solicitacao_compras
+application.description=Soliicitação Compras
+application.category=TREINAMENTO SP
+application.renderer=freemarker
+developer.code=JVN60102175
+developer.name=hilton.junior
+developer.url=http://www.fluig.com
+application.uiwidget=true
+application.mobileapp=false
+application.version=${build.version}-${build.revision}
+view.file=view.ftl
+edit.file=edit.ftl
+locale.file.base.name=widget_solicitacao_compras
+application.resource.js.1=/resources/js/widget_solicitacao_compras.js
+application.resource.css.2=/resources/css/widget_solicitacao_compras.css
